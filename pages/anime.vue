@@ -8,6 +8,7 @@
         </div>
         <div class="my-20 grid grid-cols-3 place-items-center gap-y-40">
             <div>
+                <NuxtLink to="/product">
                 <div
                     class="duration-300 hover:scale-105 rounded-3xl w-[400px] h-[500px] bg1 flex justify-center items-center">
                 </div>
@@ -15,9 +16,10 @@
                     <h1 class="text-xs">TEEZ TRENDZ</h1>
                     <h1 class="text-lg font-semibold">Naruto Printed Cotton T-Shirt</h1>
                     <h1 class=" text-base font-medium">Rs.499 <sub class="line-through">Rs.999</sub><sub class="text-green-500"> (30% OFF)</sub></h1>
-                </div>
+                </div></NuxtLink>
             </div>
             <div>
+                <NuxtLink to="/product">
                 <div
                     class="duration-300 hover:scale-105 rounded-3xl w-[400px] h-[500px] bg2 flex justify-center items-center">
                 </div>
@@ -25,9 +27,10 @@
                     <h1 class="text-xs">TEEZ TRENDZ</h1>
                     <h1 class="text-lg font-semibold">Kakashi Printed Cotton T-Shirt</h1>
                     <h1 class=" text-base font-medium">Rs.499 <sub class="line-through">Rs.999</sub><sub class="text-green-500"> (30% OFF)</sub></h1>
-                </div>
+                </div></NuxtLink>
             </div>
             <div>
+                <NuxtLink to="/product">
                 <div
                     class="duration-300 hover:scale-105 rounded-3xl w-[400px] h-[500px] bg3 flex justify-center items-center">
                 </div>
@@ -35,9 +38,10 @@
                     <h1 class="text-xs">TEEZ TRENDZ</h1>
                     <h1 class="text-lg font-semibold">Naruto Printed Cotton T-Shirt</h1>
                     <h1 class=" text-base font-medium">Rs.499 <sub class="line-through">Rs.999</sub><sub class="text-green-500"> (30% OFF)</sub></h1>
-                </div>
+                </div></NuxtLink>
             </div>
             <div>
+                <NuxtLink to="/product">
                 <div
                     class="duration-300 hover:scale-105 rounded-3xl w-[400px] h-[500px] bg4 flex justify-center items-center">
                 </div>
@@ -45,9 +49,10 @@
                     <h1 class="text-xs">TEEZ TRENDZ</h1>
                     <h1 class="text-lg font-semibold">Itachi Printed Cotton T-Shirt</h1>
                     <h1 class=" text-base font-medium">Rs.499 <sub class="line-through">Rs.999</sub><sub class="text-green-500"> (30% OFF)</sub></h1>
-                </div>
+                </div></NuxtLink>
             </div>
             <div>
+                <NuxtLink to="/product">
                 <div
                     class="duration-300 hover:scale-105 rounded-3xl w-[400px] h-[500px] bg5 flex justify-center items-center">
                 </div>
@@ -55,9 +60,10 @@
                     <h1 class="text-xs">TEEZ TRENDZ</h1>
                     <h1 class="text-lg font-semibold">Naruto Printed Cotton T-Shirt</h1>
                     <h1 class=" text-base font-medium">Rs.499 <sub class="line-through">Rs.999</sub><sub class="text-green-500"> (30% OFF)</sub></h1>
-                </div>
+                </div></NuxtLink>
             </div>
             <div>
+                <NuxtLink to="/product">
                 <div
                     class="duration-300 hover:scale-105 rounded-3xl w-[400px] h-[500px] bg6 flex justify-center items-center">
                 </div>
@@ -65,7 +71,7 @@
                     <h1 class="text-xs">TEEZ TRENDZ</h1>
                     <h1 class="text-lg font-semibold">Eren Printed Cotton T-Shirt</h1>
                     <h1 class=" text-base font-medium">Rs.499 <sub class="line-through">Rs.999</sub><sub class="text-green-500"> (30% OFF)</sub></h1>
-                </div>
+                </div></NuxtLink>
             </div>
         </div>
     </div>
