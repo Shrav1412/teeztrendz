@@ -4,7 +4,7 @@
             <NuxtLink to="/"><img class="w-48" src="../assets/LOGO.jpg" alt="logo" /></NuxtLink>
         </div>
         <div class="mt-20">
-            <h1 class="text-center font-bold text-3xl">ANIME</h1>
+            <h1 class="text-center font-bold text-3xl">CASUAL</h1>
         </div>
         <div class="my-20 grid grid-cols-3 place-items-center gap-y-40">
             <div>
@@ -171,84 +171,84 @@
 
 <style scoped>
 .bg1 {
-    background-image: url('../assets/anime/black/B1.jpg');
+    background-image: url('../assets/casual/black/B1.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg2 {
-    background-image: url('../assets/anime/black/B2.jpg');
+    background-image: url('../assets/casual/black/B2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg3 {
-    background-image: url('../assets/anime/black/B3.jpg');
+    background-image: url('../assets/casual/black/B3.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg4 {
-    background-image: url('../assets/anime/white/W1.jpg');
+    background-image: url('../assets/casual/white/W1.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg5 {
-    background-image: url('../assets/anime/white/W2.jpg');
+    background-image: url('../assets/casual/white/W2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg6 {
-    background-image: url('../assets/anime/white/W3.jpg');
+    background-image: url('../assets/casual/white/W3.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg7 {
-    background-image: url('../assets/anime/black/B4.jpg');
+    background-image: url('../assets/casual/black/B4.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg8 {
-    background-image: url('../assets/anime/black/B5.jpg');
+    background-image: url('../assets/casual/black/B5.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg9 {
-    background-image: url('../assets/anime/black/B6.jpg');
+    background-image: url('../assets/casual/black/B6.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg10 {
-    background-image: url('../assets/anime/white/W4.jpg');
+    background-image: url('../assets/casual/white/W4.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg11 {
-    background-image: url('../assets/anime/white/W5.jpg');
+    background-image: url('../assets/casual/white/W5.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg12 {
-    background-image: url('../assets/anime/white/W6.jpg');
+    background-image: url('../assets/casual/white/W6.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
